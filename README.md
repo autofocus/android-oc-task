@@ -3,7 +3,7 @@ Hello! 👋
 
 Congratulations on making it to the second round!
 
-The assignment is to build an app that allows users to browse the trending gifs using Giphy API, searching gifs, and saving those they like. Your job is to finish the app by implementing some of the key features listed below.
+The take home assignment is to build an app that allows users to browse the trending gifs using Giphy API, searching gifs, and saving those they like. Your job is to finish the app by implementing some of the key features listed below.
 
 ## Todo
 
